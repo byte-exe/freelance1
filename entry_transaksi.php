@@ -109,12 +109,9 @@
                             <td>Lama Inap</td>
                             <td><input type="text" id="lama_inap" name="lama_inap" placeholder="Lama Inap" require></td>
                         </tr>
+                        
                         <tr>
-                            <td>Jumlah Bayar</td>
-                            <td><input type="number" id="total_bayar" name="total_bayar" placeholder="Masukkan Jumlah Transaksi" min="1" required></td>
-                        </tr>
-                        <tr>
-                            <th colspan="4"><input type="submit" name="simpan" id="simpan" value="SIMPAN"></th>
+                            <th colspan="4"><input type="submit" name="simpan" id="simpan" value="Simpan [Proses]"></th>
                         </tr>
                     </table>
                 </form>
@@ -136,7 +133,7 @@
                             <th>Harga Kamar</th>
                             <th>Lama Inap</th>
                             <th>Jumlah bayar</th>
-                            <th colspan="3">Action</th>
+                            <th colspan="2">Action</th>
                         </tr>
                         <script>
                             function hapus ()
@@ -164,7 +161,6 @@
                                             <td>$hasil[harga_kamar]</td>
                                             <td>$hasil[lama_inap]</td>
                                             <td>$total_bayar</td>
-                                            <td><a href='laporan_transaksi.php?'>Cetak</td>
                                             <td><a href='edit_transaksi.php?no_transaksi=$hasil[no_transaksi]'>Edit</td>
                                             <td><a href='hapus_transaksi.php?no_transaksi=$hasil[no_transaksi]' onclick='return hapus()'>Hapus</td>
                                         </tr>

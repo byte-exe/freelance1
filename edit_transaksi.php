@@ -178,7 +178,7 @@
                                 while ($hasil = mysqli_fetch_assoc($query))
                                 {
                                     $no++;
-                                    $total_bayar = $hasil["tujuan"] * $hasil["lama_inap"];
+                                    $total_bayar = $hasil["harga_kamar"] * $hasil["lama_inap"];
                                     echo"
                                         <tr>
                                             <td>$hasil[no_transaksi]</td>
@@ -192,7 +192,6 @@
                                             <td>$hasil[harga_kamar]</td>
                                             <td>$hasil[lama_inap]</td>
                                             <td>$total_bayar</td>
-                                            <td><a href='laporan_transaksi.php?'>Cetak</td>
                                             <td><a href='edit_transaksi.php?no_transaksi=$hasil[no_transaksi]'>Edit</td>
                                             <td><a href='hapus_transaksi.php?no_transaksi=$hasil[no_transaksi]' onclick='return hapus()'>Hapus</td>
                                         </tr>

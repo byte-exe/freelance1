@@ -68,7 +68,7 @@
                         ?>
                         
                     </table>
-                    <center><font face = candara color = black> Create bye. 18101152610047 Ummi Aldiah </font> </center>
+                    <center><font face = candara color = black> Create by Valdo </font> </center>
                 </td>
             </tr>
         </table>
