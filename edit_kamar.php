@@ -12,7 +12,7 @@
         td { padding:10px; }
     </style>
     <head>
-        <title>Edit Kamar - Valdo </title>
+        <title>Edit Kamar</title>
         <BODY>
         <table style="padding:5px;">
         	<body bgcolor = "#EEEDDE">
@@ -22,9 +22,6 @@
         </table>
         <h4 style="text-align:center;">EDIT DATA KAMAR</h4>
         <table>
-            <tr>
-                <td style="text-align:center;"><b>Daftar Data Kamar</b></td>
-            </tr>
             <tr>
                 <td>
                 <form action="" method="POST">
@@ -102,7 +99,7 @@
                             }
                         ?>
                     </table>
-                    <center><font face = candara color = black> Create by Valdo </font> </center>
+                    <center><font face = candara color = black>Create By. Nobp&namalengkap</font> </center>
                 </td>
             </tr>
         </table>

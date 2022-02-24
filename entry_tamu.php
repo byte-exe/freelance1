@@ -24,9 +24,7 @@
         </table>
         <h1 style="text-align:center;">Data Tamu Hotel</h1>
         <table>
-            <tr>
-                <td style="text-align:center;"><b>Daftar Tamu Hotel</b></td>
-            </tr>
+            
             <tr>
                 <td>
                 <form action="simpan_tamu.php" method="POST">
@@ -83,7 +81,7 @@
                             }
                         ?>
                     </table>
-                    <center><font face = candara color = black> Create by Valdo </font> </center>
+                    <center><font face = candara color = black>Create By. Nobp&namalengkap</font> </center>
                 </td>
             </tr>
         </table>

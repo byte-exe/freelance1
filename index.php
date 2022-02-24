@@ -17,7 +17,7 @@
 </div>
 
 
-<center><font face = candara color = black> Create bye. Valdo </font> 
+<center><font face = candara color = black>Create By. Nobp&namalengkap</font> 
 </center>
 
 </body>

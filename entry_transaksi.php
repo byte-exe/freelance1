@@ -8,7 +8,7 @@
         td { padding:5px; }
     </style>
     <head>
-        <title>Data Transaksi Kamar Hotel - Ummi</title>
+        <title>Data Transaksi Kamar Hotel</title>
         <table style="padding:5px;">
             <body bgcolor = "#EEEDDE">
             <tr>
@@ -170,7 +170,7 @@
                         ?>
                         
                     </table>
-                    <center><font face = candara color = black> Create by Valdo </font> </center>
+                    <center><font face = candara color = black>Create By. Nobp&namalengkap</font> </center>
                 </td>
             </tr>
         </table>

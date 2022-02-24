@@ -12,7 +12,7 @@
         td { padding:10px; }
     </style>
     <head>
-        <title>Edit Data Tamu - Valdo</title>
+        <title>Edit Data Tamu</title>
         <table style="padding:5px;">
             <body bgcolor = "#EEEDDE">
             <tr>
@@ -22,7 +22,6 @@
         <h4 style="text-align:center;">EDIT DATA TAMU HOTEL</h4>
         <table>
             <tr>
-                <td style="text-align:center;"><b>Edit Data Tamu</b></td>
                 <td style="text-align:center;"><b>Daftar Data Tamu</b></td>
             </tr>
             <tr>
@@ -102,7 +101,7 @@
                             }
                         ?>
                     </table>
-                    <center><font face = candara color = black> Create by Valdo </font> </center>
+                    <center><font face = candara color = black>Create By. Nobp&namalengkap</font> </center>
                 </td>
             </tr>
         </table>

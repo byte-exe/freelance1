@@ -22,9 +22,6 @@
         <h4 style="text-align:center;">DATA PEMESANAN KAMAR HOTEL</h4>
         <table>
             <tr>
-                <td style="text-align:center;"><b>Daftar Data Pemesanan</b></td>
-            </tr>
-            <tr>
                 <td>
                 <form action="" method="POST">
                     <table>
@@ -149,7 +146,7 @@
                     }
                 ?>
                         <table class="tabel">
-                    < <tr>
+                     <tr>
                             <th>Kode Faktur</th>
                             <th>Tgl Masuk</th>
                             <th>Tgl Keluar</th>
@@ -200,7 +197,7 @@
                             }
                         ?>
                     </table>
-                    <center><font face = candara color = black> Create by Valdo </font> </center>
+                    <center><font face = candara color = black>Create By. Nobp&namalengkap</font> </center>
                 </td>
             </tr>
         </table>

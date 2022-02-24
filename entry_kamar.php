@@ -15,9 +15,7 @@
         </table>
         <h1 style="text-align:center;">DATA TAMU HOTEL</h1>
         <table>
-            <tr>
-                <td style="text-align:center;"><b>Daftar Data Kamar</b></td>
-            </tr>
+           
             <tr>
                 <td>
                 <form action="simpan_kamar.php" method="POST">
@@ -74,7 +72,7 @@
                             }
                         ?>
                     </table>
-                    <center><font face = candara color = black> Create Valdo </font> </center>
+                    <center><font face = candara color = black>Create By. Nobp&namalengkap</font> </center>
                 </td>
             </tr>
         </table>
