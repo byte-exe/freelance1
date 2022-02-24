@@ -23,6 +23,7 @@
                 <td>
                     <table class="tabel">
                         <tr>
+                            <th>No</th>
                             <th>Kode Faktur</th>
                             <th>Tgl Masuk</th>
                             <th>Tgl Keluar</th>
@@ -50,6 +51,7 @@
                                     $total_bayar = $hasil["lama_inap"] * $hasil["harga_kamar"];
                                     echo"
                                         <tr>
+                                            <td>$no</td>
                                             <td>$hasil[no_transaksi]</td>
                                             <td>$hasil[tgl_masuk]</td>
                                             <td>$hasil[tgl_keluar]</td>

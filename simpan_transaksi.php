@@ -11,7 +11,7 @@
         $nama_kamar            = $_POST['nama_kamar'];
         $harga_kamar        = $_POST['harga_kamar'];
         $tgl_masuk          = $_POST['tgl_masuk'];
-        $tgl_keluar        = $_POST['harga_kamar'];
+        $tgl_keluar        = $_POST['tgl_keluar'];
         $lama_inap   = $_POST['lama_inap'];
 
         $sql = mysqli_query($mysqli,"INSERT INTO tb_pemesanan(no_transaksi,id_tamu,nama_tamu,tlp,kode_kamar,nama_kamar,harga_kamar,tgl_masuk,tgl_keluar,lama_inap) 
